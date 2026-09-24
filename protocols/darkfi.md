@@ -2,7 +2,7 @@
 
 a layer one proof-of-work chain where every operation is a contract call carrying zero-knowledge
 proofs. written against the darkfi repository at commit `a5514cb2` (2026-09-10). the longer notes
-are in [darkfi-protocol-notes](https://github.com/alinaschanz/darkfi-protocol-notes).
+are in [darkfi-protocol-notes](https://github.com/AlinaSchan/darkfi-protocol-notes).
 
 ## in its own words
 

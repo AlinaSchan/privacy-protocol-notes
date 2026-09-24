@@ -41,9 +41,9 @@ official sources disagree, both are quoted. where i could not confirm something,
 "not clear from the public material".
 
 the darkfi page condenses a longer set of notes,
-[darkfi-protocol-notes](https://github.com/alinaschanz/darkfi-protocol-notes). the repository
+[darkfi-protocol-notes](https://github.com/AlinaSchan/darkfi-protocol-notes). the repository
 statistics come from
-[repository-history-tools](https://github.com/alinaschanz/repository-history-tools).
+[repository-history-tools](https://github.com/AlinaSchan/repository-history-tools).
 
 ## disclaimer
 

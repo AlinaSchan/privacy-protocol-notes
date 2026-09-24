@@ -17,7 +17,7 @@ are what the pages were written against. websites and blog posts were read on th
   `src/contract/money/src/{lib.rs,model/mod.rs,entrypoint/fee_v1.rs}`, `src/net/message.rs`,
   `src/net/transport/`, `bin/darkfid/src/rpc/`
 - website: https://dark.fi
-- longer notes: https://github.com/alinaschanz/darkfi-protocol-notes
+- longer notes: https://github.com/AlinaSchan/darkfi-protocol-notes
 
 ## penumbra
 
@@ -103,5 +103,5 @@ are what the pages were written against. websites and blog posts were read on th
 
 ## tooling
 
-- https://github.com/alinaschanz/repository-history-tools, run with default options against each
+- https://github.com/AlinaSchan/repository-history-tools, run with default options against each
   clone on 2026-09-15; the numbers in provenance.md come from its `summary.json` files

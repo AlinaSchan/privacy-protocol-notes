@@ -2,7 +2,7 @@
 
 where each project's code, specification and history live, what an outsider can check, and what
 each says about its own audits and builds. the repository numbers come from
-[repository-history-tools](https://github.com/alinaschanz/repository-history-tools), run on
+[repository-history-tools](https://github.com/AlinaSchan/repository-history-tools), run on
 2026-09-15 against the clones in [sources.md](../sources.md); rename detection off, merges counted
 as commits without file changes, authors grouped by name after `.mailmap`.
 
